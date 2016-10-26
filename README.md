@@ -25,3 +25,8 @@
 * allPay歐付寶 技術客服信箱：techsupport@allpay.com.tw
 
 [allPay開發者專區]: https://developers.allpay.com.tw/
+
+# English README
+
+[README](README-eng.md)
+
